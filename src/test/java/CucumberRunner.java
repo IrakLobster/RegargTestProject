@@ -13,5 +13,5 @@ import static io.cucumber.core.options.Constants.PLUGIN_PROPERTY_NAME;
 @ConfigurationParameter(key = Constants.FEATURES_PROPERTY_NAME,value = "src/test/resources/scenario/cucumberTest.feature")
 @ConfigurationParameter(key = Constants.PLUGIN_PROPERTY_NAME, value = "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm")
 public class CucumberRunner {
-    System.out.println("Hello world");
+    System.out.println("Hello world and good day");
 }
