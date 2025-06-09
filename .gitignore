@@ -35,5 +35,9 @@ build/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
 target/**
+=======
+.DS_Store
+>>>>>>> a2a1b5512e184cdb97a584116b88bb32530a4589
