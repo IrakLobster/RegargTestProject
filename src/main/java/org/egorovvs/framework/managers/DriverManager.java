@@ -5,11 +5,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class DriverManager {
 
-    private  WebDriver driver;
+    private WebDriver driver;
 
     private static DriverManager driverManager;
 
-    private  TestPropManager testPropManager = TestPropManager.getTestPropManager();
+    private TestPropManager testPropManager = TestPropManager.getTestPropManager();
 
     private DriverManager(){
 
